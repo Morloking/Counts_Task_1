@@ -39,7 +39,7 @@ int main() {
 
 	std::vector <bool> visited(lines + 1, false);
 
-	std::cout << "Ïîğÿäîê îáõîäà âåğøèí: ";
+	std::cout << "ĞŸĞ¾Ñ€ÑĞ´Ğ¾Ğº Ğ¾Ğ±Ñ…Ğ¾Ğ´Ğ° Ğ²ĞµÑ€ÑˆĞ¸Ğ½: ";
 	coreBypass(matrix, 1, visited);
 	std::cout << "\n";
 	return 0;
